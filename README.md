@@ -9,12 +9,12 @@ Welcome to my C++ projects portfolio! This repository showcases a curated collec
 ### 1. Rock Paper Scissors
 A dynamic console-based project featuring a fully structural design layout and interactive, live session state tracking.
 * **Core Concepts:** Custom structures for score state encapsulation, safe typed enumerations for system and user actions, and pseudo-random decision engines.
-* **Source Code:** [View Solution]([(https://github.com/MohamadFouadMurad/ProgrammingAdvices-course5-Projects/blob/main/project%201%20-%20Rock_Paper_Scissors/project%201%20-%20Rock_Paper_Scissors.cpp))
+* **Source Code:** [View Solution](project%201%20-%20Rock_Paper_Scissors/project%201%20-%20Rock_Paper_Scissors.cpp)
+
 ### 2. Math Game
 An educational arithmetic processing project designed to dynamically evaluate mathematical operations across variable user-selected difficulty metrics.
 * **Core Concepts:** Dynamic difficulty calculation algorithms, persistent state validation tracking, and multi-conditional execution branches.
-* **Source Code:** [View Solution]((https://github.com/MohamadFouadMurad/ProgrammingAdvices-course5-Projects/tree/main/project%201%20-%20Rock_Paper_Scissors))
-
+* **Source Code:** [View Solution](project%202%20-%20Math_Game/project%202%20-%20Math_Game.cpp)
 ---
 
 ## 🛠️ Engineering Principles Applied
