@@ -131,10 +131,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="project 1 - rock_paper_scissors\project 1 - Rock_Paper_Scissors.cpp" />
-    <ClCompile Include="project 2 - math_game\project 2 - Math_Game.cpp">
+    <ClCompile Include="project 1 - rock_paper_scissors\project 1 - Rock_Paper_Scissors.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="project 2 - math_game\project 2 - Math_Game.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
